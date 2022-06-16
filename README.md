@@ -4,3 +4,5 @@
 
 -e not a secret
 
+-e start
+
